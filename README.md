@@ -1,3 +1,3 @@
 # tammytravel
 
-https://louie2074.github.io/tammytravel/
+https://www.tammytravel.net
